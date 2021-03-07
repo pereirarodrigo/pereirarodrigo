@@ -1,9 +1,9 @@
 #Overview
-***
+
 :wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist. 
 
 #Interests
-***
+
 I'm fully focused in the academic world, where I'm currently interested in (and researching about):
 
 * Spiking neural networks;
