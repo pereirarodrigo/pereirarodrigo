@@ -1,4 +1,10 @@
-### Hi there 👋
+:wave: Hello! My name is Rodrigo and I'm a computer scientist that hails from Brazil. I'm mainly focused in the academic world, where I'm currently interested in (and researching about):
+
+* Spiking neural networks;
+* Reinforcement learning;
+* Robotics.
+
+This list is not definitive, however, as my work tends to rely on other things that I usually do not interact with (e.g. electrical engineering in spiking neural networks).
 
 <!--
 **pereirarodrigo/pereirarodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
