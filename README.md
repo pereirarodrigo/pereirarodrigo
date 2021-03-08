@@ -1,4 +1,4 @@
-<center><img src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" height = "300" width = "300"></center>
+<center><img src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" height = "250" width = "300"></center>
 
 ## Overview
 
