@@ -1,5 +1,5 @@
 <p align = "center">
-   <img src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" height = "150" width = "200" alt = "Artificial brain">
+   <img src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" height = "190" width = "240" alt = "Artificial brain">
 </p>
 
 ## Overview
