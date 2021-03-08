@@ -1,4 +1,4 @@
-<center><img align = "middle" src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" alt = "Artificial brain"></center>
+<center><img align = "middle" src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" height = "250" width = "300" alt = "Artificial brain"></center>
 
 ## Overview
 
