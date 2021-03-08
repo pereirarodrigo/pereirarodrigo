@@ -1,4 +1,4 @@
-![Artificial brain](https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png = 250x)
+![Artificial brain](https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png =250x)
 
 ## Overview
 
