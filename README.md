@@ -1,3 +1,5 @@
+![Artificial brain](https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png)
+
 ## Overview
 
 :wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist. I've obtained my B.Sc. in Computer Science at the Universidade Cidade de São Paulo (UNICID), and I'm currently working towards obtaining a M.Sc. degree in either computer science or information systems.
