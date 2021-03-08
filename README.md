@@ -20,7 +20,7 @@ This list is not definitive, however, as my work tends to rely on other things t
 
 ## Contact information
 
-The easiest way to reach out to me is through the e-mail address provided in my GitHub account page (pereirarodrigocs@gmail.com).
+The easiest way to reach out to me is through the e-mail address provided on my GitHub account page (pereirarodrigocs@gmail.com).
 <!--
 **pereirarodrigo/pereirarodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
