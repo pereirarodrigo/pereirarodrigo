@@ -4,7 +4,7 @@
 
 ## Interests
 
-I'm fully focused in the academic world, where I'm currently interested in (and researching about):
+I'm passionate about, and fully focused, in the academic world, where I'm currently interested in (and researching about):
 
 * Spiking neural networks;
 * Computational learning theory;
@@ -12,6 +12,10 @@ I'm fully focused in the academic world, where I'm currently interested in (and 
 * Robotics.
 
 This list is not definitive, however, as my work tends to rely on other things that I *usually* tend to not interact with (e.g. concepts from electrical engineering in spiking neural networks). The main programming languages I use for my projects and research are Python (mainly) and R, with the tools that I use for each of them depending greatly on what I'm working on.
+
+## Contact information
+
+The easiest way to reach out to me is through the e-mail provided in my GitHub account page (pereirarodrigocs@gmail.com).
 <!--
 **pereirarodrigo/pereirarodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
