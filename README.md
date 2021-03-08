@@ -4,10 +4,11 @@
 
 ## Interests
 
-I'm passionate about, and fully focused, in the academic world, where I'm currently interested in (and researching about):
+I'm passionate about, and fully focused, in the academic world, with a heavy emphasis on artificial intelligence. More specifically, I'm interested in computational intelligence, a subfield of AI that's mainly concerned about a biologically-inspired approach to machine intelligence. As of now, I'm currently interested in (and researching about):
 
 * Spiking neural networks;
 * Computational learning theory;
+* Approximate reasoning;
 * Reinforcement learning;
 * Robotics.
 
