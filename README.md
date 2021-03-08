@@ -1,13 +1,4 @@
-<div>
-  <center><img class = "brain" src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" alt = "Artificial brain"></center>
-</div>
-
-<style>
-.brain {
-    margin: 10px auto 20px;
-    display: block;
-}
-</style>
+<center><img align = "middle" src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" alt = "Artificial brain"></center>
 
 ## Overview
 
