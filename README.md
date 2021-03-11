@@ -1,7 +1,3 @@
-<p align = "center">
-   <img src = "https://github.com/pereirarodrigo/pereirarodrigo/blob/main/brain.png" height = "190" width = "240" alt = "Artificial brain">
-</p>
-
 ## Overview
 
 :wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist. I received my B.Sc. degree in Computer Science from the Universidade Cidade de São Paulo (UNICID), and I'm currently working towards obtaining a M.Sc. degree in either computer science or information systems.
