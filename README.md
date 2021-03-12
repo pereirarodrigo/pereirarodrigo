@@ -10,7 +10,6 @@ I'm passionate about, and fully focused, in the academic world. I have a deep in
 * Computational learning theory;
 * Approximate reasoning;
 * Reinforcement learning;
-* Natural dialogue systems;
 * Robotics.
 
 This list is not definitive, however, as my work tends to rely on other things that I *usually* tend to not interact with (e.g. concepts from electrical engineering in spiking neural networks). The main programming languages I use on my projects and research are Python (mainly) and R, with the tools that I use for each of them depending greatly on what I'm working on.
