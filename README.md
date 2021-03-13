@@ -4,7 +4,7 @@
 
 ## Interests
 
-I'm passionate about, and fully focused, in the academic world. I have a deep interest in artificial intelligence, more specifically in computational intelligence, which is a subfield of AI that's mainly concerned about a biologically-inspired approach to machine intelligence. As of now, I'm currently interested in (and researching about):
+I'm passionate about the academic world. I have a deep interest in artificial intelligence, more specifically in computational intelligence, which is a subfield of AI that's mainly concerned about a biologically-inspired approach to machine intelligence. As of now, I'm currently interested in (and researching about):
 
 * Spiking neural networks;
 * Computational learning theory;
