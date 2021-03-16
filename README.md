@@ -1,18 +1,21 @@
 ## Overview
 
-:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist. I received my B.Sc. degree from the Universidade Cidade de São Paulo (UNICID), and I'm currently working towards obtaining a M.Sc. degree in either computer science or information systems.
+:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist. I received my B.Sc. degree from the Universidade Cidade de São Paulo (UNICID), and I'm currently working towards obtaining a M.Sc. degree in computer science when possible.
 
 ## Interests
 
-I'm passionate about the academic world. I have a deep interest in artificial intelligence, more specifically in computational intelligence, which is a subfield of AI that's mainly concerned about a biologically-inspired approach to machine intelligence. As of now, I'm currently interested in (and researching about):
+I'm passionate about artificial intelligence, with emphasis on machine learning and its different approaches to problem solving: supervised, unsupervised and reinforcement learning. I'm also very interested in deep learning (i.e. neural networks) and its applications, such as in robotics, self-driving cars, computer vision and natural language processing.
 
-* Spiking neural networks;
-* Computational learning theory;
-* Approximate reasoning;
-* Reinforcement learning;
-* Robotics.
+As I'm interested in both the theoretical and practical applications of AI, I make heavy use of programming to work on projects, with the main tools I use being the Python and R programming languages, with a clear predominance of the former, where I mainly use the following libraries:
 
-This list is not definitive, however, as my work tends to rely on other things that I *usually* tend to not interact with (e.g. concepts from electrical engineering in spiking neural networks). The main programming languages I use on my projects and research are Python (mainly) and R, with the tools that I use for each of them depending greatly on what I'm working on.
+* Scikit-learn;
+* NumPy;
+* PyTorch;
+* Keras;
+* XGBoost;
+* Pandas;
+* SciPy;
+* OpenAI Gym.
 
 ## Contact information
 
