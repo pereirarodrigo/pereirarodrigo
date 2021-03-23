@@ -1,6 +1,6 @@
 ## Overview
 
-:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist. I received my B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), and I'm currently immersing myself in the world of data science and machine learning.
+:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist. I received my B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), and I'm currently enrolled in PUC Minas' Artificial Intelligence and Machine Learning specialization course.
 
 ## Interests
 
