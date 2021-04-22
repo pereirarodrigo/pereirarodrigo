@@ -11,11 +11,11 @@ As I'm interested in both the theoretical and practical applications of AI, I ma
 * Scikit-learn;
 * NumPy;
 * PyTorch;
+* TensorFlow;
 * Keras;
 * XGBoost;
 * Pandas;
-* SciPy;
-* OpenAI Gym.
+* SciPy.
 
 ## Contact information
 
