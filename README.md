@@ -21,7 +21,10 @@ As I'm interested in both the theoretical and practical applications of AI, I ma
 
 The easiest way to reach out to me is through the e-mail address provided on my GitHub account page (pereirarodrigocs@gmail.com).
 
+## Overall stats
+
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pereirarodrigo)](https://github.com/pereirarodrigo/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereirarodrigo&layout=compact)](https://github.com/pereirarodrigo/github-readme-stats)
 <!--
 **pereirarodrigo/pereirarodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
