@@ -30,6 +30,8 @@ As I'm interested in both the theoretical and practical applications of AI, I ma
 * Pandas;
 * SciPy.
 
+I'm currently focused in the field of Natural Language Processing (NLP), especially in the following subjects: topic modelling, natural language understanding and generation (NLU and NLG) and transformers (GPT-2, GPT-Neo and BERT). 
+
 ## Contact information
 
 The easiest way to reach out to me is through the e-mail address provided on my GitHub account page (pereirarodrigocs@gmail.com).
