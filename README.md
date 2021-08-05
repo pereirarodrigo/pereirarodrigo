@@ -30,7 +30,7 @@ As I'm interested in both the theoretical and practical applications of AI, I ma
 * Pandas;
 * SciPy.
 
-I'm currently focused in the field of Natural Language Processing (NLP), especially in the following subjects: topic modelling, natural language understanding and generation (NLU and NLG) and transformers (GPT-2, GPT-Neo and BERT). 
+I'm currently focused on the field of Natural Language Processing (NLP), mainly in the following subjects: topic modelling, natural language understanding and generation (NLU and NLG) and transformers (GPT-2, GPT-Neo and BERT). 
 
 ## Contact information
 
