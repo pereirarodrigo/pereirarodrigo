@@ -28,9 +28,7 @@ As I'm interested in both the theoretical and practical applications of AI, I ma
 * Transformers;
 * Gensim;
 * Pandas;
-* SciPy.
-
-I'm currently focused on the field of Natural Language Processing (NLP), with a focus in the following subjects: topic modelling, natural language understanding and generation (NLU and NLG) and transformers (GPT-2, GPT-Neo and BERT). 
+* SciPy. 
 
 ## Contact information
 
