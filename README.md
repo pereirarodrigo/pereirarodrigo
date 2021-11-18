@@ -24,8 +24,12 @@ As I'm interested in both the theoretical and practical applications of AI, I ma
 
 * Scikit-learn;
 * NumPy;
-* PyTorch;
+* PyTorch (mainly PyTorch Lightning);
 * Transformers;
+* XGBoost;
+* LightGBM;
+* Ray (Tune and RLLib);
+* PySpark (MLLib);
 * Gensim;
 * Pandas;
 * SciPy. 
