@@ -15,7 +15,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" hspace="5" width=40 height=40>
   </a>
   <a href="https://pereirarodrigo.github.io/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" hspace="5" width=60 height=40>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" hspace="5" width=40 height=40>
   </a>
 </p>
 
