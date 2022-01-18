@@ -21,7 +21,7 @@
 
 ## Interests
 
-I'm passionate about artificial intelligence, with emphasis on computational intelligence and biologically-inspired algorithms. I have a deep interest in non-conventional approaches to computer cognition, such as probabilistic methods, fuzzy inference, evolutionary algorithms and hybrid systems (such as neuro-fuzzy models). Despite this emphasis on computational intelligence, I'm familiar and comfortable with traditional AI techniques, such as machine learning and deep learning, with a notable predominance of the latter when it comes to my current knowledge.
+I'm passionate about synthetic intelligence, with emphasis on computational intelligence and biologically-inspired algorithms. I have a deep interest in non-conventional approaches to computer cognition, such as probabilistic methods, fuzzy inference, evolutionary algorithms and hybrid systems (such as neuro-fuzzy models). Despite this emphasis on computational intelligence, I'm familiar and comfortable with traditional AI techniques, such as machine learning and deep learning, with a notable predominance of the latter when it comes to my current knowledge.
 
 ## Contact information
 
