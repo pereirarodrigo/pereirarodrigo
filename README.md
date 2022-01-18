@@ -1,6 +1,6 @@
 ## Overview
 
-:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist. I received my B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), and I'm currently working towards obtaining my graduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist and AI researcher. I received my B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), and I'm currently working towards obtaining my graduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
 
 <br>
 
@@ -21,7 +21,7 @@
 
 ## Interests
 
-I'm passionate about synthetic intelligence, with emphasis on computational intelligence and biologically-inspired algorithms. I have a deep interest in non-conventional approaches to computer cognition, such as probabilistic methods, fuzzy inference, evolutionary algorithms and hybrid systems (such as neuro-fuzzy models). Despite this emphasis on such different classes of algorithms, I'm familiar and comfortable with traditional AI techniques, such as machine learning and deep learning, with a notable predominance of the latter when it comes to my current knowledge.
+I'm passionate about artificial/synthetic intelligence, with emphasis on computational intelligence and biologically-inspired algorithms. I have a deep interest in non-conventional approaches to computer cognition, such as probabilistic methods, fuzzy inference, evolutionary algorithms and hybrid systems (such as neuro-fuzzy models). Despite this emphasis on such different classes of algorithms, I'm familiar and comfortable with traditional AI techniques, such as machine learning and deep learning, with a notable predominance of the latter when it comes to my current knowledge.
 
 ## Contact information
 
