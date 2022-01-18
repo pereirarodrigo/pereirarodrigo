@@ -21,21 +21,7 @@
 
 ## Interests
 
-I'm passionate about artificial intelligence, with emphasis on machine learning and its different approaches to problem solving: supervised, unsupervised and reinforcement learning. I'm also very interested in deep learning (i.e. neural networks) and its applications, such as in robotics, self-driving cars, computer vision and natural language processing.
-
-As I'm interested in both the theoretical and practical applications of AI, I make heavy use of programming to work on projects, with the main tools I use being the Python and R programming languages, with a clear predominance of the former, where I mainly use the following libraries:
-
-* Scikit-learn;
-* NumPy;
-* PyTorch (mainly PyTorch Lightning);
-* Transformers;
-* XGBoost;
-* LightGBM;
-* Ray (Tune and RLLib);
-* PySpark (MLLib);
-* Gensim;
-* Pandas;
-* SciPy. 
+I'm passionate about artificial intelligence, with emphasis on computational intelligence and biologically-inspired algorithms. I have a deep interest in non-conventional approaches to computer cognition, such as probabilistic methods, fuzzy inference, evolutionary algorithms and hybrid systems (such as neuro-fuzzy models). Despite this emphasis on computational intelligence, I'm familiar and comfortable with traditional AI techniques, such as machine learning and deep learning, with a notable predominance of the latter when it comes to my current knowledge.
 
 ## Contact information
 
