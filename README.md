@@ -9,7 +9,7 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" hspace="10" width=40 height=40>
   </a>
   <a href="https://www.linkedin.com/in/rpereiracruz/">
-     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" hspace="10" width=40 height=40>
+     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" hspace="10" width=40 height=40>
   </a>
   <a href="https://www.kaggle.com/rpereiracruz">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" hspace="5" width=40 height=40>
