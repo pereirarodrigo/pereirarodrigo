@@ -1,6 +1,6 @@
 ## Overview
 
-:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist and AI researcher. I received my B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), and I'm currently working towards obtaining my graduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist and AI researcher. I received my B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), and I'm currently finishing my graduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas); additionally, I'm a master's student at the IU International University of Applied Sciences' Artificial Intelligence course.
 
 <br>
 
