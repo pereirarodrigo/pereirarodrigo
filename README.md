@@ -29,9 +29,10 @@ The easiest way to reach out to me is through the e-mail address provided on my 
 
 ## Overall stats
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pereirarodrigo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereirarodrigo&hide=html,css&layout=compact)](https://github.com/pereirarodrigo/github-readme-stats)
-<!--
-**pereirarodrigo/pereirarodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereirarodrigo&hide=html,css&layout=compact)](https://github.com/pereirarodrigo/github-readme-stats)
+  <br>
+  [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pereirarodrigo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
