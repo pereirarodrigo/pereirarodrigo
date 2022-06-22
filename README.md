@@ -21,7 +21,12 @@
 
 ## Interests
 
-I'm passionate about artificial intelligence, with emphasis on reinforcement learning and biologically-inspired algorithms. I have a deep interest in non-conventional approaches to computer cognition, such as probabilistic methods, fuzzy inference, evolutionary algorithms and hybrid systems (such as neuro-fuzzy models). Despite this emphasis on such different classes of algorithms, I'm familiar and comfortable with traditional AI techniques, such as machine learning and deep learning, with a notable predominance of the latter when it comes to my current knowledge.
+As a reinforcement learning researcher, I'm focused on (and research about) topics that are either part of, or related, to this subfield of machine learning. The following topics are the ones I most frequently work with:
+
+* Multiagent learning;
+* Actor-critic methods;
+* Intrinsic motivation;
+* Transfer learning.
 
 ## Contact information
 
