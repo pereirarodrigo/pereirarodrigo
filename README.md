@@ -23,8 +23,8 @@
 
 As a reinforcement learning researcher, I'm focused on (and research about) topics that are either part of, or related, to this subfield of machine learning. The following topics are the ones I most frequently work with:
 
-* Imitation learning;
 * Actor-critic methods;
+* Imitation learning;
 * Intrinsic motivation;
 * Transfer learning.
 
