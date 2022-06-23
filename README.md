@@ -21,12 +21,11 @@
 
 ## Interests
 
-As a reinforcement learning researcher, I'm focused on (and research about) topics that are either part of, or related, to this subfield of machine learning. The following topics are the ones I most frequently work with:
+As a reinforcement learning researcher, I'm focused on (and research about) topics that are either part of, or related, to this subfield of machine learning. I often make use of the excellent [ViZDoom](https://github.com/mwydmuch/ViZDoom) platform to conduct my research, with the following topics being the ones I most frequently work with:
 
 * Actor-critic methods;
-* Imitation learning;
 * Intrinsic motivation;
-* Transfer learning.
+* Transfer learning. 
 
 ## Contact information
 
