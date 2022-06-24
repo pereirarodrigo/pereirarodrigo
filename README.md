@@ -25,6 +25,7 @@ As a reinforcement learning researcher, I'm focused on (and research about) topi
 
 * Actor-critic methods;
 * Intrinsic motivation;
+* Multiagent learning;
 * Transfer learning. 
 
 ## Contact information
