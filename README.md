@@ -14,9 +14,6 @@
   <a href="https://www.kaggle.com/rpereiracruz">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" hspace="5" width=40 height=40>
   </a>
-  <a href="https://pereirarodrigo.github.io/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6zUopbuMb9KgoLezV5VhnaA0G6bAVNYPjaB7-rSSrqirdjW9t4BGmZIap0N2j7kCT3vs&usqp=CAU" hspace="5" width=40 height=40>
-  </a>
 </p>
 
 ## Interests
