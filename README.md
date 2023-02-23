@@ -22,8 +22,7 @@ As a reinforcement learning researcher, I'm focused on (and research about) topi
 
 * Exploration;
 * Imitation learning;
-* Inverse reinforcement learning.
-* Policy gradient methods;
+* Policy gradient methods.
 
 ## Contact information
 
