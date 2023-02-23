@@ -22,7 +22,7 @@ As a reinforcement learning researcher, I'm focused on (and research about) topi
 
 * Exploration;
 * Imitation learning;
-* Policy gradient methods.
+* Actor-critic methods.
 
 ## Contact information
 
