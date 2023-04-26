@@ -1,6 +1,6 @@
 ## Overview
 
-:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist and reinforcement learning researcher. I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID) and a postgraduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist and artificial intelligence researcher. I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID) and a postgraduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ## Interests
 
-As a reinforcement learning researcher, I'm focused on (and research about) topics that are either part of, or related, to this subfield of machine learning. The following topics are the ones I most frequently work with:
+As an artificial intelligence researcher, I'm focused on many of the subfields of AI, such as machine learning and natural language processing. As of now, I'm mostly interested (and research about) topics that are either part of, or related, to reinforcement learning. The following topics are the ones I most frequently work with:
 
 * Exploration;
 * Imitation learning;
