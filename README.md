@@ -1,22 +1,43 @@
-## Overview
+<p align="center">
+:wave: Hello there! 
+<br>
 
-:wave: Hello! My name is Rodrigo and I'm a brazilian computer scientist and artificial intelligence scientist. I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID) and a postgraduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+<div id="links" align="center">
+  <a href="https://www.linkedin.com/in/rpereiracruz/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:pereirarodrigocs@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube"/>
+</div>
+
+## :blue_book: About me
+
+My name is Rodrigo and I'm a computer and artificial intelligence scientist from :brazil: Brazil. 
+
+* :student: I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID) and a postgraduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas);
+  
+* :technologist: I'm currently working as a data engineer at DHAUZ, a brazilian analytics consulting company;
+  
+* :mailbox: The easiest way to reach me is through my [email](mailto:pereirarodrigocs@gmail.com).
 
 <br>
 
-<p align="center">
-  <a href="mailto:pereirarodrigocs@gmail.com">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" hspace="10" width=40 height=40>
-  </a>
-  <a href="https://www.linkedin.com/in/rpereiracruz/">
-     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" hspace="10" width=40 height=40>
-  </a>
-  <a href="https://www.kaggle.com/rpereiracruz">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" hspace="5" width=40 height=40>
-  </a>
-</p>
+## :hammer_and_wrench: Tech stack
 
-## Interests
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+<br>
+
+## :bulb: Interests
 
 As an artificial intelligence scientist, I'm interested in many of the subfields of AI, such as machine learning (ML) and natural language processing (NLP). Currently, I'm heavily focused on NLP and reinforcement learning, and I'm mainly exploring the following topics:
 
@@ -26,16 +47,8 @@ As an artificial intelligence scientist, I'm interested in many of the subfields
 * Large language models (LLMs);
 * Conversational AI.
 
-## Contact information
+<br>
 
-The easiest way to reach out to me is through the e-mail address provided on my GitHub account page (pereirarodrigocs@gmail.com).
+## :fire: Overall stats
 
-## Overall stats
-
-<div align="center">
-  
-  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereirarodrigo&hide=html,css&layout=compact)](https://github.com/pereirarodrigo/github-readme-stats)
-  <br>
-  [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pereirarodrigo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereirarodrigo&hide=html,css&layout=compact&theme=vision-friendly-dark)](https://github.com/pereirarodrigo/github-readme-stats)
