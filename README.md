@@ -44,11 +44,4 @@ As an artificial intelligence scientist, I'm interested in many of the subfields
 * Exploration;
 * Imitation learning;
 * Actor-critic methods;
-* Large language models (LLMs);
 * Conversational AI.
-
-<br>
-
-## :fire: Overall stats
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereirarodrigo&hide=html,css&layout=compact&theme=vision-friendly-dark)](https://github.com/pereirarodrigo/github-readme-stats)
