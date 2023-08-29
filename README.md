@@ -13,7 +13,7 @@ My name is Rodrigo and I'm a computer and artificial intelligence scientist from
 
 * :student: I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID) and a postgraduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas);
   
-* :technologist: I'm currently working as a data engineer at DHAUZ, a brazilian analytics consulting company;
+* :technologist: I'm currently working as a data engineer at DHAUZ Analytics, a brazilian AI-focused consulting company;
   
 * :mailbox: The easiest way to reach me is through my [email](mailto:pereirarodrigocs@gmail.com).
 
