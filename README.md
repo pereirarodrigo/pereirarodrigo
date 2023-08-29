@@ -44,4 +44,5 @@ As an artificial intelligence scientist, I'm interested in many of the subfields
 * Exploration;
 * Imitation learning;
 * Actor-critic methods;
+* Meta-learning;
 * Conversational AI.
