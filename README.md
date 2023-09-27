@@ -45,4 +45,5 @@ As an artificial intelligence scientist, I'm interested in many of the subfields
 * Imitation learning;
 * Actor-critic methods;
 * Meta-learning;
+* Neuro-fuzzy systems;
 * Conversational AI.
