@@ -39,11 +39,11 @@ My name is Rodrigo and I'm a computer and artificial intelligence scientist from
 
 ## :bulb: Interests
 
-As an artificial intelligence scientist, I'm interested in many of the subfields of AI, such as machine learning (ML) and natural language processing (NLP). Currently, I'm heavily focused on NLP and reinforcement learning, and I'm mainly exploring the following topics:
+As an artificial intelligence scientist, I'm interested in many of the subfields of AI, such as machine learning (ML) and natural language processing (NLP). Currently, I'm heavily focused on NLP, neuromorphic computing and reinforcement learning, and I'm mainly exploring the following topics:
 
 * Exploration;
 * Imitation learning;
 * Actor-critic methods;
 * Meta-learning;
-* Neuro-fuzzy systems;
-* Conversational AI.
+* Conversational AI;
+* Spiking neural networks,
