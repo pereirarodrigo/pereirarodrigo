@@ -46,4 +46,4 @@ As an artificial intelligence scientist, I'm interested in many of the subfields
 * Actor-critic methods;
 * Meta-learning;
 * Conversational AI;
-* Spiking neural networks,
+* Spiking neural networks.
