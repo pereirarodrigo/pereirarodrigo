@@ -44,6 +44,8 @@ As an artificial intelligence scientist, I'm interested in many of the subfields
 * Exploration;
 * Imitation learning;
 * Actor-critic methods;
+* Policy-gradient methods;
+* Multi-agent reinforcement learning (MARL);
 * Meta-learning;
 * Conversational AI;
 * Spiking neural networks.
