@@ -13,7 +13,7 @@ My name is Rodrigo and I'm a computer and artificial intelligence scientist from
 
 * :student: I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), a postgraduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas) and I'm currently working towards obtaining a master's degree in Artificial Intelligence at the University of Essex;
   
-* :technologist: I'm currently working as a data scientist at Mondelēz International;
+* :technologist: I'm currently working as a senior data scientist at Mondelēz International;
   
 * :mailbox: The easiest way to reach me is through my [email](mailto:pereirarodrigocs@gmail.com).
 
