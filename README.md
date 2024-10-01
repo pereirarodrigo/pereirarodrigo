@@ -9,7 +9,7 @@
 
 ## :blue_book: About me
 
-My name is Rodrigo and I'm a computer and artificial intelligence scientist from :brazil: Brazil. 
+My name is Rodrigo and I'm a computer scientist from :brazil: Brazil. 
 
 * :student: I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), a postgraduate degree in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas) and I'm currently working towards obtaining a master's degree in Artificial Intelligence at the University of Essex;
   
@@ -39,13 +39,10 @@ My name is Rodrigo and I'm a computer and artificial intelligence scientist from
 
 ## :bulb: Interests
 
-As an artificial intelligence scientist, I'm interested in many of the subfields of AI, such as machine learning (ML) and natural language processing (NLP). Currently, I'm heavily focused on NLP, neuromorphic computing and reinforcement learning, and I'm mainly exploring the following topics:
+Most of my interests lie in computational neuroscience and specific AI subfields, such as reinforcement learning. Currently, I'm mainly exploring the following topics:
 
-* Exploration;
 * Imitation learning;
-* Actor-critic methods;
-* Policy-gradient methods;
-* Multi-agent reinforcement learning (MARL);
 * Meta-learning;
-* Conversational AI;
-* Spiking neural networks.
+* Multi-agent reinforcement learning (MARL);
+* Neuron and network modeling;
+* Policy gradient methods.
