@@ -39,8 +39,9 @@ My name is Rodrigo and I'm a cognitive scientist from :brazil: Brazil.
 
 ## :bulb: Interests
 
-Most of my interests lie in computational neuroscience and specific AI subfields, such as reinforcement learning. Currently, I'm mainly exploring the following topics:
+Most of my interests lie in cognitive science, computational neuroscience and specific AI subfields, such as reinforcement learning. Currently, I'm mainly exploring the following topics:
 
+* Cognitive modeling;
 * Imitation learning;
 * Meta-learning;
 * Multi-agent reinforcement learning (MARL);
