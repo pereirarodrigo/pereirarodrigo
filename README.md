@@ -13,8 +13,6 @@ My name is Rodrigo and I'm a cognitive scientist from :brazil: Brazil.
 
 * :student: I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), a postgraduate diploma in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas) and I'm currently working towards obtaining a master's degree in Artificial Intelligence at the University of Essex;
   
-* :technologist: I'm currently working as a senior data scientist at Mondelēz International;
-  
 * :mailbox: The easiest way to reach me is through my [email](mailto:pereirarodrigocs@gmail.com).
 
 <br>
@@ -41,8 +39,9 @@ My name is Rodrigo and I'm a cognitive scientist from :brazil: Brazil.
 
 Most of my interests lie in cognitive science, computational neuroscience and specific AI subfields, such as reinforcement learning. Currently, I'm mainly exploring the following topics:
 
-* Cognitive modeling;
+* Cognitive modelling;
 * Imitation learning;
+* Intrinsic curiosity;
 * Meta-learning;
 * Multi-agent reinforcement learning (MARL);
 * Neuron and network modeling;
