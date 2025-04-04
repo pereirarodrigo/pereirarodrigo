@@ -1,48 +1,52 @@
 <p align="center">
-:wave: Hello there! 
+:wave: Hey, I’m Rodrigo 
 <br>
 
 <div id="links" align="center">
   <a href="https://www.linkedin.com/in/rpereiracruz/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <a href="mailto:pereirarodrigocs@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube"/>
+  <a href="mailto:r.perecruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="Pereira Cruz, Rodrigo"><img src="https://img.shields.io/badge/Zenodo-blue" alt="Zenodo records"/>
+  <a href="https://www.researchgate.net/profile/Rodrigo-Pereira-Cruz?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-white" alt="ResearchGate"/>
 </div>
 
-## :blue_book: About me
+I’m Rodrigo Pereira Cruz, a cognitive scientist and AI researcher from 🇧🇷 Brazil, currently pursuing an MSc in Artificial Intelligence (AI) at the University of Essex.
 
-My name is Rodrigo and I'm a cognitive scientist from :brazil: Brazil. 
+🧠 My work lives at the intersection of **AI**, **cognitive science**, and **computational neuroscience** - where I explore how intelligence *emerges*, *adapts*, and *self-organises*.
 
-* :student: I have a B.Sc. in Computer Science degree from the Universidade Cidade de São Paulo (UNICID), a postgraduate diploma in Artificial Intelligence and Machine Learning at the Pontifícia Universidade Católica de Minas Gerais (PUC Minas) and I'm currently working towards obtaining a master's degree in Artificial Intelligence at the University of Essex;
-  
-* :mailbox: The easiest way to reach me is through my [email](mailto:pereirarodrigocs@gmail.com).
+While I started within traditional AI methods, my trajectory naturally led me toward **neuro-inspired systems**, **probabilistic reasoning**, and **intrinsic learning mechanisms**. I believe that building truly intelligent systems requires more than brute force - it demands understanding how learning itself unfolds.
 
-<br>
+---
 
-## :hammer_and_wrench: Tech stack
+## 🔍 Research focus
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+- **Cognitive modelling** - using RL and probabilistic models to simulate cognitive processes.
+- **Intrinsic curiosity and meta-learning** - exploring how agents self-motivate and adapt over time.
+- **Spiking neural networks and neuron models** - bridging bio-realism and machine learning.
+- **Multi-agent reinforcement learning (MARL)** - modelling distributed, emergent behaviours.
+- **Imitation and inverse RL** - capturing expert-like behavior and learning from it.
+- **Gaussian processes and uncertainty-aware systems** - making learning robust, explainable, and grounded.
 
-<br>
+---
 
-## :bulb: Interests
+## 💡 Current initiatives
 
-Most of my interests lie in cognitive science, computational neuroscience and specific AI subfields, such as reinforcement learning. Currently, I'm mainly exploring the following topics:
+🧬 Exploring embodied cognition and perceptual emergence through RL and neuro-inspired architectures.
 
-* Cognitive modelling;
-* Imitation learning;
-* Intrinsic curiosity;
-* Meta-learning;
-* Multi-agent reinforcement learning (MARL);
-* Neuron and network modeling;
-* Policy gradient methods.
+🧠 Independent research projects (including my first preprint on Zenodo) focused on integrating RL into cognitive science frameworks.
+
+🌍 Building bridges with European labs working in cognitive systems, neuro-symbolic AI, and adaptive learning.
+
+---
+
+## 🌐 Let's connect
+
+📫 I'm open to research collaborations, academic exchanges, or just a good conversation about intelligence (natural or artificial).
+
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-pereira-cruz)
+- [Zenodo](https://zenodo.org/records/[YOUR_RECORD_ID])  
+- [Email me](mailto:r.perecruz@gmail.com)
+
+---
+
+> *“The mind is not a vessel to be filled, but a fire to be kindled.”*  
+> – Plutarch
