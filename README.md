@@ -3,10 +3,18 @@
 <br>
 
 <div id="links" align="center">
-  <a href="https://www.linkedin.com/in/rpereiracruz/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <a href="mailto:r.perecruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  <a href="Pereira Cruz, Rodrigo"><img src="https://img.shields.io/badge/Zenodo-blue" alt="Zenodo records"/>
-  <a href="https://www.researchgate.net/profile/Rodrigo-Pereira-Cruz?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-white" alt="ResearchGate"/>
+  <a href="https://www.linkedin.com/in/rpereiracruz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:r.perecruz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://zenodo.org/records/1234567" target="_blank"> <!-- Replace with your actual Zenodo record -->
+    <img src="https://img.shields.io/badge/Zenodo-blue?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Rodrigo-Pereira-Cruz?ev=hdr_xprf" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
 </div>
 
 I’m Rodrigo Pereira Cruz, a cognitive scientist and AI researcher from 🇧🇷 Brazil, currently pursuing an MSc in Artificial Intelligence (AI) at the University of Essex.
