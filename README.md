@@ -9,7 +9,7 @@
   <a href="mailto:r.perecruz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://zenodo.org/records/1234567" target="_blank"> <!-- Replace with your actual Zenodo record -->
+  <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Pereira%20Cruz%2C%20Rodrigo%22&l=list&p=1&s=10&sort=bestmatch" target="_blank">
     <img src="https://img.shields.io/badge/Zenodo-blue?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/>
   </a>
   <a href="https://www.researchgate.net/profile/Rodrigo-Pereira-Cruz?ev=hdr_xprf" target="_blank">
