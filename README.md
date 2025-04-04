@@ -17,6 +17,8 @@
   </a>
 </div>
 
+<br>
+
 I’m Rodrigo Pereira Cruz, a cognitive scientist and AI researcher from 🇧🇷 Brazil, currently pursuing an MSc in Artificial Intelligence (AI) at the University of Essex.
 
 🧠 My work lives at the intersection of **AI**, **cognitive science**, and **computational neuroscience** - where I explore how intelligence *emerges*, *adapts*, and *self-organises*.
