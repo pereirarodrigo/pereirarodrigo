@@ -34,7 +34,7 @@ While I started within traditional AI methods, my trajectory naturally led me to
 - **Spiking neural networks and neuron models** - bridging bio-realism and machine learning.
 - **Multi-agent reinforcement learning (MARL)** - modelling distributed, emergent behaviours.
 - **Imitation and inverse RL** - capturing expert-like behavior and learning from it.
-- **Gaussian processes and uncertainty-aware systems** - making learning robust, explainable, and grounded.
+- **Uncertainty-aware learning systems** - making learning robust, explainable, and grounded.
 
 ---
 
