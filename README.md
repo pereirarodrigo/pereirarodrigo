@@ -19,38 +19,29 @@
 
 <br>
 
-I’m Rodrigo Pereira Cruz, a cognitive scientist and AI researcher from 🇧🇷 Brazil, currently pursuing an MSc in Artificial Intelligence (AI) at the University of Essex.
+I’m Rodrigo Pereira Cruz, an independent scholar from 🇧🇷 Brazil, currently pursuing an MSc in Artificial Intelligence (AI) at the University of Essex.
 
-🧠 My work lives at the intersection of **AI**, **cognitive science**, and **computational neuroscience** - where I explore how intelligence *emerges*, *adapts*, and *self-organises*.
-
-While I started within traditional AI methods, my trajectory naturally led me toward **neuro-inspired systems**, **probabilistic reasoning**, and **intrinsic learning mechanisms**. I believe that building truly intelligent systems requires more than brute force - it demands understanding how learning itself unfolds.
+🧠 My work lives at the intersection of **AI** and **metaphysics**, with notable influences from **cognitive science** and **computational neuroscience** - where I explore not only how the mind interacts with reality itself from an *emergentist* and *self-organising* perspective, but the very foundations of existence itself.
 
 ---
 
 ## 🔍 Research focus
 
-- **Cognitive modelling** - using RL and probabilistic models to simulate cognitive processes.
-- **Intrinsic curiosity and meta-learning** - exploring how agents self-motivate and adapt over time.
-- **Spiking neural networks and neuron models** - bridging bio-realism and machine learning.
-- **Multi-agent reinforcement learning (MARL)** - modelling distributed, emergent behaviours.
-- **Imitation and inverse RL** - capturing expert-like behavior and learning from it.
-- **Probabilistic reasoning** - making learning robust, explainable, and uncertainty-aware.
+- **Ontology** - the study of being and existence.
+- **Neural metaphysics** - how the mind perceives, and interacts with, reality itself.
+- **Existential metaphysics** - modelling distributed, emergent behaviours.
 
 ---
 
 ## 💡 Current initiatives
 
-🧬 Exploring embodied cognition and perceptual emergence through RL and neuro-inspired architectures.
-
-🧠 Independent research projects (including my first preprint on Zenodo) focused on integrating RL into cognitive science frameworks.
-
-🌍 Building bridges with European labs working in cognitive systems, neuro-symbolic AI, and adaptive learning.
+🧬 Exploring the very definitions of reality itself and ascertaining how the human mind perceives that which it cannot name.
 
 ---
 
 ## 🌐 Let's connect
 
-📫 I'm open to research collaborations, academic exchanges, or just a good conversation about intelligence (natural or artificial).
+📫 I'm open to research collaborations, academic exchanges, or just a good conversation about intelligence and metaphysics.
 
 ---
 
