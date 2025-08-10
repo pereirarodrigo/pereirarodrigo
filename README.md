@@ -29,7 +29,7 @@ I’m Rodrigo Pereira Cruz, an independent scholar from 🇧🇷 Brazil, current
 
 - **Ontology** - the study of being and existence.
 - **Neural metaphysics** - how the mind perceives, and interacts with, reality itself.
-- **Existential metaphysics** - modelling distributed, emergent behaviours.
+- **Existential metaphysics** - the nature of being and existence.
 
 ---
 
