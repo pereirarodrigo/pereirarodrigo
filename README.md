@@ -35,7 +35,7 @@ I’m Rodrigo Pereira Cruz, an independent scholar from 🇧🇷 Brazil, current
 
 ## 💡 Current initiatives
 
-🧬 Exploring the very definitions of reality itself and ascertaining how the human mind perceives that which it cannot name.
+🧬 Exploring existence via a recursive, abstract lens and ascertaining how the human mind perceives it.
 
 ---
 
