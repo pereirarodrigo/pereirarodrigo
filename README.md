@@ -21,27 +21,19 @@
 
 I’m Rodrigo Pereira Cruz, an independent scholar from 🇧🇷 Brazil, currently pursuing an MSc in Artificial Intelligence (AI) at the University of Essex.
 
-🧠 My work lives at the intersection of **AI** and **metaphysics**, with notable influences from **cognitive science** and **computational neuroscience** - where I explore not only how the mind interacts with reality itself from an *emergentist* and *self-organising* perspective, but the very foundations of existence itself.
+🧠 My work lives at the intersection of **AI** and **metaphysics**, with notable influences from **cognitive science** and **computational neuroscience**. I seek to explore the underlying conditions that allow for not only consciousness and intelligence, but of ontology itself, to arise - all from an *emergentist* and *self-organising* perspective with notable influences from Buddhist epistemology.
 
 ---
 
 ## 🔍 Research focus
 
-- **Ontology** - the study of being and existence.
-- **Neural metaphysics** - how the mind perceives, and interacts with, reality itself.
-- **Existential metaphysics** - the nature of being and existence.
-
----
-
-## 💡 Current initiatives
-
-🧬 Exploring existence via a recursive, abstract lens and ascertaining how the human mind perceives it.
+My main interest lies in **meta-systems**, systems that allow for the existence of other systems, be they computational or ontological.
 
 ---
 
 ## 🌐 Let's connect
 
-📫 I'm open to research collaborations, academic exchanges, or just a good conversation about intelligence and metaphysics.
+📫 I'm always open to academic exchanges or just a good conversation about intelligence and metaphysics.
 
 ---
 
