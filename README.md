@@ -25,7 +25,7 @@ I’m Rodrigo Pereira Cruz, an independent scholar from 🇧🇷 Brazil, current
 
 ---
 
-## 🔍 Research focus
+## 🔍 Academic focus
 
 My main interest lies in **meta-systems**, systems that allow for the existence of other systems, be they computational or ontological.
 
