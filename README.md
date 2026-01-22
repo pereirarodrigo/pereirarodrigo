@@ -27,7 +27,7 @@ I’m Rodrigo Pereira Cruz, an independent scholar from 🇧🇷 Brazil, current
 
 ## 🔍 Academic focus
 
-My main interest lies in **generative meta-formalisms**, systems that allow for the self-dictated and emergent generation of other systems, mostly ontological in origin and which may range from reality itself to the underlying pillars of cognition.
+My main interest lies in **generative meta-formalisms**, systems that allow for the self-dictated and emergent generation of other systems (mostly ontological in origin), and which may range from reality itself to the underlying pillars of cognition.
 
 ---
 
