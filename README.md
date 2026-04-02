@@ -21,13 +21,13 @@
 
 I’m Rodrigo Pereira Cruz, an independent scholar from 🇧🇷 Brazil.
 
-🧠 My work lives at the intersection of **AI**, **cognitive science**, **computational neuroscience**, **philosophy**, **psychology**, and **metaphysics**. I seek to explore the underlying conditions that allow for not only consciousness and intelligence, but of ontology itself, to arise - all from an *emergentist* and *self-organising* perspective.
+🧠 My work lives at the intersection of **AI**, **linguistics**, **cognitive science**, **computational neuroscience**, **philosophy**, **psychology**, and **metaphysics**. I seek to explore the underlying conditions that allow for not only consciousness and intelligence, but of ontology itself, to arise - all from an *emergentist* and *self-organising* perspective.
 
 ---
 
 ## 🔍 Academic focus
 
-My main interest lies in **generative meta-formalisms**, systems that allow for the self-dictated and emergent generation of other systems (mostly ontological in origin), and which may range from reality itself to the underlying pillars of cognition.
+One of my main interests lies in **generative meta-formalisms**, systems that allow for the self-dictated and emergent generation of other systems (mostly ontological in origin), and which may range from reality itself to the underlying pillars of cognition. I'm also very interested in linguistics, with a noted emphasis on Semitic languages.
 
 ---
 
